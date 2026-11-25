@@ -2,9 +2,10 @@
 
 A Kanban-style task board built with React. Organize work into columns, drag cards between them, search across all cards, and switch between light and dark mode. Everything is saved in the browser, so your board is still there after a refresh.
 
-**Live demo:** [add your Vercel or Netlify link here]
+**Live demo:** https://kanban-board-pi-murex-50.vercel.app
 
-![Taskboard screenshot](./screenshots/board.png)
+![Taskboard dark mode](./screenshot.png/Kanban-Board_darkmode.png)
+![Taskboard light mode](./screenshot.png/Kanban-Board_lightmode.png)
 
 ## Features
 
@@ -38,8 +39,8 @@ You need Node.js 18 or newer.
 
 ```bash
 # clone the repository
-git clone https://github.com/<your-username>/kanban-Board.git
-cd kanban-Board
+git clone https://github.com/PrabhakarBijlwan/Kanban-Board.git
+cd Kanban-Board
 
 # install dependencies
 npm install
